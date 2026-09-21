@@ -34,7 +34,7 @@ Currently looking for **full-stack developer roles in Melbourne, AU**.
 - **Tech Stack:** React Native, Node.js, Express, Supabase (PostgreSQL), OpenAI (GPT-4, Whisper)
 - [GitHub Repo](https://github.com/DevvSh/Jobmate-app)
 
-**[This Portfolio](https://github.com/DevvSh/dev-shah-portfolio)** — my personal site, hand-built with a custom design system (no UI libraries).
+**[Portfolio](https://github.com/DevvSh/dev-shah-portfolio)** — my personal site, hand-built with a custom design system (no UI libraries).
 - **Tech Stack:** React, Vite, Tailwind CSS
 - [Live Demo](https://dev-shah-portfolio-tawny.vercel.app) | [GitHub Repo](https://github.com/DevvSh/dev-shah-portfolio)
 
