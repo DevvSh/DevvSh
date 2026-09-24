@@ -36,7 +36,7 @@ Currently looking for **full-stack developer roles in Melbourne, AU**.
 
 **[Portfolio](https://github.com/DevvSh/dev-shah-portfolio)** — my personal site, hand-built with a custom design system (no UI libraries).
 - **Tech Stack:** React, Vite, Tailwind CSS
-- [Live Demo](https://dev-shah-portfolio-tawny.vercel.app) | [GitHub Repo](https://github.com/DevvSh/dev-shah-portfolio)
+- [Live Demo](https://devshah.dev) | [GitHub Repo](https://github.com/DevvSh/dev-shah-portfolio)
 
 **Enrolment System Rebuild** — rebuilt a neighborhood house's enrolment system end-to-end, cutting processing time by 35%.
 - **Tech Stack:** WordPress, PHP, MySQL
@@ -45,7 +45,7 @@ Currently looking for **full-stack developer roles in Melbourne, AU**.
 
 I'm always open to full-stack roles, internships, or just a friendly chat about code and coffee.
 
-- 🌐 Portfolio: [dev-shah-portfolio-tawny.vercel.app](https://dev-shah-portfolio-tawny.vercel.app)
+- 🌐 Portfolio: [devshah.dev](https://devshah.dev)
 - 💼 LinkedIn: [linkedin.com/in/devvs](https://www.linkedin.com/in/devvs/)
 - 📧 Email: dev_australia@outlook.com
 
